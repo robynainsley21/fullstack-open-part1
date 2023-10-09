@@ -4,5 +4,5 @@
 - Introduction to React
 - JavaScript
 - Component State and event handlers
-- A more complex state
+- Complex state
 - Debugging React applications 
